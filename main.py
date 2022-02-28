@@ -9,4 +9,4 @@ client = commands.Bot(command_prefix='?', intents = discord.Intents.all())
 for i in range(len(cogs)):
   cogs[i].setup(client)
 
-client.run("OTQ1MDA5ODUyNzMwNzAzOTEy.YhJ7Ag.LjKN3ZHeqYf40i75Y4KBsWXxUVw")
+client.run("OTQ1MDA5ODUyNzMwNzAzOTEy.YhJ7Ag.JoE99jBUrD0y5calUcmGfZVAWe0")
